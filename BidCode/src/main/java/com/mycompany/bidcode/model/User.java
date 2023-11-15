@@ -1,4 +1,4 @@
-package model;
+package com.mycompany.bidcode.model;
 
 import java.util.ArrayList;
 import java.util.List;

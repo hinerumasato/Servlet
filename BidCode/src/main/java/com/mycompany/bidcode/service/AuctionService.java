@@ -1,9 +1,8 @@
-package service;
+package com.mycompany.bidcode.service;
 
+import com.mycompany.bidcode.model.AuctionItem;
+import com.mycompany.bidcode.model.User;
 import java.util.Collection;
-
-import model.AuctionItem;
-import model.User;
 
 public class AuctionService {
 	private AuctionDatabase database;

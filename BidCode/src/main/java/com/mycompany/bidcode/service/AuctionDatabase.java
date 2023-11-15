@@ -1,15 +1,13 @@
-package service;
+package com.mycompany.bidcode.service;
 
+import com.mycompany.bidcode.model.AuctionItem;
+import com.mycompany.bidcode.model.User;
 import java.util.Calendar;
 import java.util.Collection;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import model.Bid;
-import model.AuctionItem;
-import model.User;
 
 public class AuctionDatabase {
 	private static final AuctionDatabase instance = new AuctionDatabase();

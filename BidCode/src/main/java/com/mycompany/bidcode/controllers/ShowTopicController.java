@@ -4,7 +4,10 @@
  */
 package com.mycompany.bidcode.controllers;
 
+import com.mycompany.bidcode.model.AuctionItem;
 import com.mycompany.bidcode.model.CustomCalendar;
+import com.mycompany.bidcode.model.Duration;
+import com.mycompany.bidcode.service.AuctionService;
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -13,9 +16,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import model.AuctionItem;
-import model.Duration;
-import service.AuctionService;
+
 
 /**
  *
