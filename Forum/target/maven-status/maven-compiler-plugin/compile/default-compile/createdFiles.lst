@@ -1,0 +1,16 @@
+com\mycompany\forum\models\Message.class
+com\mycompany\forum\controllers\ListTopicsController.class
+com\mycompany\forum\controllers\LoginController.class
+com\mycompany\forum\controllers\NewTopicController.class
+com\mycompany\forum\models\User.class
+com\mycompany\forum\resources\JavaEE8Resource.class
+com\mycompany\forum\controllers\ReplyTopicController.class
+com\mycompany\forum\models\Category.class
+com\mycompany\forum\controllers\ShowTopicController.class
+com\mycompany\forum\models\CustomCalendar.class
+com\mycompany\forum\models\Topic.class
+com\mycompany\forum\services\ForumService.class
+com\mycompany\forum\controllers\LogoutController.class
+com\mycompany\forum\models\Entry.class
+com\mycompany\forum\controllers\RootController.class
+com\mycompany\forum\JAXRSConfiguration.class
