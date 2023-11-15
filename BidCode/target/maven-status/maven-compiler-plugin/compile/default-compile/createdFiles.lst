@@ -1,0 +1,6 @@
+model\AuctionItem.class
+service\AuctionDatabase.class
+model\Duration.class
+model\Bid.class
+service\AuctionService.class
+model\User.class

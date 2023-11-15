@@ -1,0 +1,12 @@
+com\mycompany\daugia\controllers\RootController.class
+com\mycompany\daugia\controllers\SaveCustomerController.class
+com\mycompany\daugia\models\Booking.class
+com\mycompany\daugia\JakartaRestConfiguration.class
+com\mycompany\daugia\models\Tour.class
+com\mycompany\daugia\controllers\TourDetailController.class
+com\mycompany\daugia\database\DB.class
+com\mycompany\daugia\resources\JakartaEE8Resource.class
+com\mycompany\daugia\controllers\ListToursController.class
+com\mycompany\daugia\controllers\BookingTourController.class
+com\mycompany\daugia\models\Customer.class
+com\mycompany\daugia\models\TourService.class
